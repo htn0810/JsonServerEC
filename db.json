@@ -1,0 +1,1042 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "electronics"
+    },
+    {
+      "id": 2,
+      "name": "jewelery"
+    },
+    {
+      "id": 3,
+      "name": "men's clothing"
+    },
+    {
+      "id": 4,
+      "name": "women's clothing"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": {
+        "id": 2,
+        "name": "jewelery"
+      },
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": {
+        "id": 2,
+        "name": "jewelery"
+      },
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": 3
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": {
+        "id": 2,
+        "name": "jewelery"
+      },
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": 1
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": {
+        "id": 2,
+        "name": "jewelery"
+      },
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": 1
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": 3
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": 2
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": 5
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": 5
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": 2
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": 2
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": 2
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": 3
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": 4
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": 5
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": 5
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": 3
+    },
+    {
+      "id": 21,
+      "title": "Apple iPhone 14 Pro",
+      "price": 999.99,
+      "description": "The iPhone 14 Pro features a 6.1-inch Super Retina XDR display and the powerful A16 Bionic chip.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1631998044206-5303a7c2e3d3",
+      "rating": 5
+    },
+    {
+      "id": 22,
+      "title": "Samsung Galaxy S22",
+      "price": 799.99,
+      "description": "The Samsung Galaxy S22 comes with a vibrant display and advanced camera capabilities.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1649020273072-e0e55f178f39",
+      "rating": 4
+    },
+    {
+      "id": 23,
+      "title": "Sony WH-1000XM4 Wireless Headphones",
+      "price": 349.99,
+      "description": "Industry-leading noise cancellation and superior sound quality.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1618964803906-bdca7f073a0d",
+      "rating": 5
+    },
+    {
+      "id": 24,
+      "title": "Fitbit Charge 5 Fitness Tracker",
+      "price": 149.95,
+      "description": "Get fit with the Fitbit Charge 5 that tracks your activity and health.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1620783132062-dbb1b1ffb945",
+      "rating": 4
+    },
+    {
+      "id": 25,
+      "title": "Dell XPS 13 Laptop",
+      "price": 1099.99,
+      "description": "The Dell XPS 13 is a compact laptop with stunning visuals and performance.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1543212028-67b3aa3d4e05",
+      "rating": 5
+    },
+    {
+      "id": 26,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "A beautiful bracelet inspired by the mythical water dragon.",
+      "category": {
+        "id": 2,
+        "name": "jewelery"
+      },
+      "image": "https://images.unsplash.com/photo-1611385633487-5e25d6386942",
+      "rating": 4
+    },
+    {
+      "id": 27,
+      "title": "Solid Gold Petite Micropave",
+      "price": 168,
+      "description": "A delicate micropave piece designed for everyday wear.",
+      "category": {
+        "id": 2,
+        "name": "jewelery"
+      },
+      "image": "https://images.unsplash.com/photo-1572984794191-62bfb7bfe075",
+      "rating": 3
+    },
+    {
+      "id": 28,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic engagement ring for a promise of love.",
+      "category": {
+        "id": 2,
+        "name": "jewelery"
+      },
+      "image": "https://images.unsplash.com/photo-1542211988-89e3e6226e02",
+      "rating": 1
+    },
+    {
+      "id": 29,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Stylish double-flared tunnel plug earrings.",
+      "category": {
+        "id": 2,
+        "name": "jewelery"
+      },
+      "image": "https://images.unsplash.com/photo-1588680178253-0b3532ab4c9f",
+      "rating": 1
+    },
+    {
+      "id": 30,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+      "price": 64,
+      "description": "Portable external hard drive for data storage.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1572033620711-bffbe7c41599",
+      "rating": 3
+    },
+    {
+      "id": 31,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Fast internal SSD for quicker load times.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1544717305-e1a1238c7f06",
+      "rating": 2
+    },
+    {
+      "id": 32,
+      "title": "Silicon Power 256GB SSD 3D NAND A55",
+      "price": 109,
+      "description": "High transfer speed SSD for enhanced performance.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1590985477307-14fdca62ac6f",
+      "rating": 5
+    },
+    {
+      "id": 33,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4",
+      "price": 114,
+      "description": "External hard drive optimized for gaming.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1617312854551-d24d432d4b86",
+      "rating": 5
+    },
+    {
+      "id": 34,
+      "title": "Acer SB220Q bi 21.5 inches Full HD IPS Ultra-Thin",
+      "price": 599,
+      "description": "Ultra-thin monitor with stunning visuals.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1586173185507-6a905ae58bbf",
+      "rating": 2
+    },
+    {
+      "id": 35,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor",
+      "price": 999.99,
+      "description": "Massive curved monitor for immersive gaming experience.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1517646874394-42b1f9e6e8f4",
+      "rating": 2
+    },
+    {
+      "id": 36,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Versatile snowboard jacket with detachable liner.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1617881804467-4fbc0f756f3d",
+      "rating": 2
+    },
+    {
+      "id": 37,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "Stylish faux leather jacket with removable hood.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1595338925781-bc8ecfb6219c",
+      "rating": 3
+    },
+    {
+      "id": 38,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight rain jacket for outdoor activities.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1618591991616-32b78ca29b67",
+      "rating": 4
+    },
+    {
+      "id": 39,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
+      "price": 9.85,
+      "description": "Comfortable short sleeve top made of soft fabric.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1622927603563-fc3",
+      "rating": 4
+    },
+    {
+      "id": 40,
+      "title": "Men's Casual Slim Fit Shirt",
+      "price": 25.99,
+      "description": "A stylish slim-fit shirt perfect for casual outings.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1561841726-493d5a5d20aa",
+      "rating": 4
+    },
+    {
+      "id": 41,
+      "title": "Men's Fashion Slim Fit Blazer",
+      "price": 45.99,
+      "description": "A modern blazer for formal and semi-formal occasions.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1595373100170-94c3e7e1b633",
+      "rating": 5
+    },
+    {
+      "id": 42,
+      "title": "Men's Denim Jacket",
+      "price": 39.99,
+      "description": "Classic denim jacket that never goes out of style.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1555984089-89a8f0057714",
+      "rating": 4
+    },
+    {
+      "id": 43,
+      "title": "Men's Athletic Shoes",
+      "price": 60.0,
+      "description": "Comfortable and stylish shoes for all your workout needs.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1517803719324-5e8164ef5c9b",
+      "rating": 5
+    },
+    {
+      "id": 44,
+      "title": "Women's Summer Dress",
+      "price": 29.99,
+      "description": "Light and breezy dress for warm summer days.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1508960773633-1f0f1c48d76e",
+      "rating": 4
+    },
+    {
+      "id": 45,
+      "title": "Women's High Waist Jeans",
+      "price": 39.99,
+      "description": "Fashionable high-waisted jeans that pair well with any top.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1559181628-1684f4036b3a",
+      "rating": 5
+    },
+    {
+      "id": 46,
+      "title": "Women's Casual Sneakers",
+      "price": 34.99,
+      "description": "Trendy sneakers for a comfortable everyday look.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1510909705558-b07469d7d4b1",
+      "rating": 4
+    },
+    {
+      "id": 47,
+      "title": "Men's Swim Trunks",
+      "price": 24.99,
+      "description": "Stylish swim trunks for your beach days.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1519050788988-9ae09146d9f3",
+      "rating": 3
+    },
+    {
+      "id": 48,
+      "title": "Men's Running Shorts",
+      "price": 19.99,
+      "description": "Lightweight shorts designed for running and workouts.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1590662808347-02f9fdbeedc6",
+      "rating": 4
+    },
+    {
+      "id": 49,
+      "title": "Men's Graphic T-Shirt",
+      "price": 18.99,
+      "description": "Casual graphic tee for everyday wear.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1586338008781-b8e4d4766372",
+      "rating": 3
+    },
+    {
+      "id": 50,
+      "title": "Fossil Men's Grant Chronograph Watch",
+      "price": 169.99,
+      "description": "Stylish chronograph watch with a classic design.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1561637942-9ef75b464c5b",
+      "rating": 5
+    },
+    {
+      "id": 51,
+      "title": "Kate Spade New York Women's Nylon Backpack",
+      "price": 109.99,
+      "description": "Trendy nylon backpack for daily use.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1516488771613-23824472c8a5",
+      "rating": 4
+    },
+    {
+      "id": 52,
+      "title": "Men's Leather Wallet",
+      "price": 39.99,
+      "description": "Classic leather wallet with multiple card slots.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1541611390486-b8bb1f1d5b89",
+      "rating": 5
+    },
+    {
+      "id": 53,
+      "title": "Women's Tote Bag",
+      "price": 49.99,
+      "description": "Stylish tote bag for work and play.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1550497043-43ec16f54543",
+      "rating": 4
+    },
+    {
+      "id": 54,
+      "title": "Men's Waterproof Jacket",
+      "price": 59.99,
+      "description": "Durable waterproof jacket for outdoor adventures.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1568053438685-3a8ec5a3f3cb",
+      "rating": 5
+    },
+    {
+      "id": 55,
+      "title": "Women's Knit Sweater",
+      "price": 34.99,
+      "description": "Cozy knit sweater perfect for layering.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1598589927785-dbd9a8b49f3c",
+      "rating": 4
+    },
+    {
+      "id": 56,
+      "title": "Diamond Stud Earrings",
+      "price": 149.99,
+      "description": "Classic diamond stud earrings that add elegance to any outfit.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1601339152100-b3e962f7c1f0",
+      "rating": 5
+    },
+    {
+      "id": 57,
+      "title": "Gold Plated Pendant Necklace",
+      "price": 69.99,
+      "description": "Beautiful gold-plated pendant necklace perfect for gifting.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1607466728011-df96b18a3b3b",
+      "rating": 4
+    },
+    {
+      "id": 58,
+      "title": "Silver Hoop Earrings",
+      "price": 34.99,
+      "description": "Stylish silver hoop earrings for a trendy look.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1597011891664-d7e7502d4854",
+      "rating": 4
+    },
+    {
+      "id": 59,
+      "title": "Men's Stainless Steel Bracelet",
+      "price": 44.99,
+      "description": "Modern stainless steel bracelet for men.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1570123482915-f172f45e2dc1",
+      "rating": 5
+    },
+    {
+      "id": 60,
+      "title": "Smartwatch with Fitness Tracker",
+      "price": 199.99,
+      "description": "Feature-packed smartwatch with heart rate and activity tracking.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1593642632740-4b7b7f7e5c69",
+      "rating": 5
+    },
+    {
+      "id": 61,
+      "title": "Wireless Noise-Canceling Headphones",
+      "price": 129.99,
+      "description": "Experience music like never before with these wireless headphones.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1584468472170-743bd4ebc2d5",
+      "rating": 4
+    },
+    {
+      "id": 62,
+      "title": "Portable Bluetooth Speaker",
+      "price": 59.99,
+      "description": "Compact Bluetooth speaker with amazing sound quality.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1516185246430-9b55aa1c6f8d",
+      "rating": 4
+    },
+    {
+      "id": 63,
+      "title": "Apple AirPods Pro",
+      "price": 249.99,
+      "description": "Premium wireless earbuds with noise cancellation.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1598405506110-4c52eaa24879",
+      "rating": 5
+    },
+    {
+      "id": 64,
+      "title": "Men's Leather Watch",
+      "price": 89.99,
+      "description": "Stylish leather watch that complements any outfit.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1576059154661-93b0f7edfd0e",
+      "rating": 4
+    },
+    {
+      "id": 65,
+      "title": "Sapphire and Diamond Ring",
+      "price": 299.99,
+      "description": "Exquisite ring featuring sapphire and diamond.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1621706148673-206eb2363725",
+      "rating": 5
+    },
+    {
+      "id": 66,
+      "title": "Smartphone with 128GB Storage",
+      "price": 699.99,
+      "description": "Latest smartphone with powerful performance and camera.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1564518098554-9d35e4ed3f5c",
+      "rating": 5
+    },
+    {
+      "id": 67,
+      "title": "4K Ultra HD TV",
+      "price": 999.99,
+      "description": "Stunning 4K TV for the ultimate viewing experience.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1584014187605-30c1748fd0fc",
+      "rating": 5
+    },
+    {
+      "id": 68,
+      "title": "Men's Cufflinks",
+      "price": 29.99,
+      "description": "Elegant cufflinks to elevate your formal attire.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1567016546992-7a7a0e9d1f2d",
+      "rating": 4
+    },
+    {
+      "id": 69,
+      "title": "Women's Bracelet Watch",
+      "price": 79.99,
+      "description": "Stylish watch with a delicate bracelet design.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1578590677243-3dbeea97a57f",
+      "rating": 5
+    },
+    {
+      "id": 70,
+      "title": "Wireless Charger",
+      "price": 29.99,
+      "description": "Fast wireless charger compatible with most smartphones.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1581033994928-fabff6c9b1b2",
+      "rating": 4
+    },
+    {
+      "id": 71,
+      "title": "Men's Casual Shirt",
+      "price": 49.99,
+      "description": "Stylish casual shirt made from breathable fabric.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1600501040080-1a82f1a6d2d2",
+      "rating": 4
+    },
+    {
+      "id": 72,
+      "title": "Women's Summer Dress",
+      "price": 39.99,
+      "description": "Lightweight summer dress with floral patterns.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1522204201805-265d4c7a5689",
+      "rating": 5
+    },
+    {
+      "id": 73,
+      "title": "Men's Chino Pants",
+      "price": 59.99,
+      "description": "Comfortable and stylish chinos suitable for casual or formal wear.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1590614676684-576b233c49f1",
+      "rating": 4
+    },
+    {
+      "id": 74,
+      "title": "Women's Handbag",
+      "price": 89.99,
+      "description": "Elegant handbag that combines style and functionality.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1518051450902-f00f1ab1c0a1",
+      "rating": 5
+    },
+    {
+      "id": 75,
+      "title": "Smartphone with 256GB Storage",
+      "price": 799.99,
+      "description": "Latest smartphone with high performance and camera capabilities.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1584011006793-46d839a92a2a",
+      "rating": 5
+    },
+    {
+      "id": 76,
+      "title": "Bluetooth Earbuds",
+      "price": 69.99,
+      "description": "Compact wireless earbuds with superior sound quality.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1586790188824-02a8e11358ed",
+      "rating": 4
+    },
+    {
+      "id": 77,
+      "title": "Gaming Mouse",
+      "price": 49.99,
+      "description": "High-precision gaming mouse with customizable settings.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1583911713604-4c01e2b23004",
+      "rating": 4
+    },
+    {
+      "id": 78,
+      "title": "Women's Blouse",
+      "price": 34.99,
+      "description": "Elegant blouse that pairs well with any bottom.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1535880193485-3be9bdf7f7a5",
+      "rating": 5
+    },
+    {
+      "id": 79,
+      "title": "Men's Jacket",
+      "price": 89.99,
+      "description": "Stylish jacket perfect for cooler weather.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1526459493522-e9d51c95151d",
+      "rating": 4
+    },
+    {
+      "id": 80,
+      "title": "Gold Hoop Earrings",
+      "price": 74.99,
+      "description": "Classic gold hoop earrings for everyday wear.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1574865503911-3b497e903bf7",
+      "rating": 5
+    },
+    {
+      "id": 81,
+      "title": "Smart Fitness Band",
+      "price": 39.99,
+      "description": "Track your fitness activities with this sleek fitness band.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1558980709-56c51e3a76ae",
+      "rating": 4
+    },
+    {
+      "id": 82,
+      "title": "Stainless Steel Ring",
+      "price": 45.99,
+      "description": "Sleek stainless steel ring for everyday wear.",
+      "category": {
+        "id": 2,
+        "name": "jewelry"
+      },
+      "image": "https://images.unsplash.com/photo-1584426463094-cb7e6d535f71",
+      "rating": 4
+    },
+    {
+      "id": 83,
+      "title": "Men's T-Shirt",
+      "price": 19.99,
+      "description": "Comfortable t-shirt made from soft cotton.",
+      "category": {
+        "id": 3,
+        "name": "men's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1525071220561-cf47c60078a1",
+      "rating": 5
+    },
+    {
+      "id": 84,
+      "title": "Leather Backpack",
+      "price": 109.99,
+      "description": "Stylish leather backpack for daily use.",
+      "category": {
+        "id": 4,
+        "name": "women's clothing"
+      },
+      "image": "https://images.unsplash.com/photo-1511343956227-bcc8e5cf40f2",
+      "rating": 5
+    },
+    {
+      "id": 85,
+      "title": "Sunglasses",
+      "price": 24.99,
+      "description": "Trendy sunglasses to protect your eyes from the sun.",
+      "category": {
+        "id": 1,
+        "name": "electronics"
+      },
+      "image": "https://images.unsplash.com/photo-1517734310687-b04f67ed0de6",
+      "rating": 4
+    }
+  ]
+}
